@@ -13,7 +13,6 @@
 
 - 📄 Know about my experiences [https://codingwithgaurav.com](https://codingwithgaurav.com)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
