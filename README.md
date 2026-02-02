@@ -92,16 +92,16 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravkumar-dev&show_icons=true&layout=compact" />
+      <img src="https://img.shields.io/github/followers/gauravkumar-dev?style=flat" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=gauravkumar-dev&show_icons=true" />
+    <img src="https://img.shields.io/github/stars/gauravkumar-dev?style=flat" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravkumar-dev" />
+ <img src="https://img.shields.io/github/commit-activity/m/gauravkumar-dev?style=flat" />
 </p>
 
 ---
